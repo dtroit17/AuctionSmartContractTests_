@@ -1,0 +1,1 @@
+# AuctionSmartContractTests_
